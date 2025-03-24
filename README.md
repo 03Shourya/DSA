@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/03Shourya/DSA/tree/master/0014-longest-common-prefix) |
+| [0812-rotate-string](https://github.com/03Shourya/DSA/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/03Shourya/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/03Shourya/DSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/03Shourya/DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
