@@ -14,10 +14,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/03Shourya/DSA/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/03Shourya/DSA/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/03Shourya/DSA/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/03Shourya/DSA/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +28,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/03Shourya/DSA/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/03Shourya/DSA/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/03Shourya/DSA/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/03Shourya/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
