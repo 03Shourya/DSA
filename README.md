@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/03Shourya/DSA/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/03Shourya/DSA/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/03Shourya/DSA/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/03Shourya/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## String
@@ -87,6 +88,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/03Shourya/DSA/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/03Shourya/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
