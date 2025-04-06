@@ -12,6 +12,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/03Shourya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/03Shourya/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/03Shourya/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/03Shourya/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/03Shourya/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/03Shourya/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
@@ -26,6 +27,7 @@
 | [0001-two-sum](https://github.com/03Shourya/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/03Shourya/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/03Shourya/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/03Shourya/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/03Shourya/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/03Shourya/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/03Shourya/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/03Shourya/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/03Shourya/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/03Shourya/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/03Shourya/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/03Shourya/DSA/tree/master/0908-middle-of-the-linked-list) |
