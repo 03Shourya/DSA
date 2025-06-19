@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/03Shourya/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/03Shourya/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/03Shourya/DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/03Shourya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/03Shourya/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/03Shourya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/03Shourya/DSA/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
