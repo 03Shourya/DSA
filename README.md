@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/03Shourya/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/03Shourya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/03Shourya/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/03Shourya/DSA/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0148-sort-list](https://github.com/03Shourya/DSA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/03Shourya/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/03Shourya/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/03Shourya/DSA/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | [0205-isomorphic-strings](https://github.com/03Shourya/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/03Shourya/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/03Shourya/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/03Shourya/DSA/tree/master/0645-set-mismatch) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/03Shourya/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
@@ -164,4 +167,5 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/03Shourya/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/03Shourya/DSA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
