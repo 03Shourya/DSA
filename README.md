@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/03Shourya/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/03Shourya/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/03Shourya/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/03Shourya/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/03Shourya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -15,6 +16,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/03Shourya/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/03Shourya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/03Shourya/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/03Shourya/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/03Shourya/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/03Shourya/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/03Shourya/DSA/tree/master/0148-sort-list) |
@@ -27,6 +29,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/03Shourya/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/03Shourya/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/03Shourya/DSA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/03Shourya/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/03Shourya/DSA/tree/master/0451-sort-characters-by-frequency) |
