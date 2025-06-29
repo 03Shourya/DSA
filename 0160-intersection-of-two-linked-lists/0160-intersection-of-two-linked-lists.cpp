@@ -9,19 +9,13 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        if (!headA || !headB) return nullptr;
-        
-        ListNode* ptrA = headA;
-        ListNode* ptrB = headB;
-        
-        // Traverse both lists
-        while (ptrA != ptrB) {
-            // If we reach the end of one list, start from the head of the other
-            ptrA = ptrA ? ptrA->next : headB;
-            ptrB = ptrB ? ptrB->next : headA;
+        ListNode* a=headA;
+        ListNode* b=headB;
+        while(a!=b)
+        {
+            a=a?a->next:headB;
+            b=b?b->next:headA;
         }
-        
-        // Either both are null (no intersection) or both point to the intersection node
-        return ptrA;
+        return a;
     }
 };
