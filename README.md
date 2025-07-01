@@ -14,6 +14,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/03Shourya/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/03Shourya/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/03Shourya/DSA/tree/master/0645-set-mismatch) |
+| [1046-max-consecutive-ones-iii](https://github.com/03Shourya/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/03Shourya/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/03Shourya/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/03Shourya/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/03Shourya/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/03Shourya/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -204,4 +207,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/03Shourya/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/03Shourya/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/03Shourya/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/03Shourya/DSA/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
