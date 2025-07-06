@@ -16,6 +16,7 @@
 | [0496-next-greater-element-i](https://github.com/03Shourya/DSA/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/03Shourya/DSA/tree/master/0645-set-mismatch) |
 | [1046-max-consecutive-ones-iii](https://github.com/03Shourya/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/03Shourya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0645-set-mismatch](https://github.com/03Shourya/DSA/tree/master/0645-set-mismatch) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/03Shourya/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/03Shourya/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/03Shourya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Math
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | [0155-min-stack](https://github.com/03Shourya/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/03Shourya/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/03Shourya/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/03Shourya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
 | ------- |
