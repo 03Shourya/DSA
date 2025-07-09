@@ -16,6 +16,7 @@
 | [0496-next-greater-element-i](https://github.com/03Shourya/DSA/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/03Shourya/DSA/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/03Shourya/DSA/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/03Shourya/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/03Shourya/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/03Shourya/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/03Shourya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -68,6 +69,7 @@
 | [0496-next-greater-element-i](https://github.com/03Shourya/DSA/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/03Shourya/DSA/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/03Shourya/DSA/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/03Shourya/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/03Shourya/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/03Shourya/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/03Shourya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -192,6 +194,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/03Shourya/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/03Shourya/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/03Shourya/DSA/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/03Shourya/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/03Shourya/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
 |  |
@@ -259,6 +262,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/03Shourya/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/03Shourya/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Design
 |  |
