@@ -18,6 +18,7 @@
 | [0940-fruit-into-baskets](https://github.com/03Shourya/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/03Shourya/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/03Shourya/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/03Shourya/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/03Shourya/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/03Shourya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Two Pointers
@@ -71,6 +72,7 @@
 | [0940-fruit-into-baskets](https://github.com/03Shourya/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/03Shourya/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/03Shourya/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1370-count-number-of-nice-subarrays](https://github.com/03Shourya/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/03Shourya/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/03Shourya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Math
@@ -80,6 +82,7 @@
 | [0013-roman-to-integer](https://github.com/03Shourya/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/03Shourya/DSA/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/03Shourya/DSA/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/03Shourya/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/03Shourya/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -196,6 +199,7 @@
 | [0940-fruit-into-baskets](https://github.com/03Shourya/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/03Shourya/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/03Shourya/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/03Shourya/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -264,6 +268,7 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/03Shourya/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/03Shourya/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/03Shourya/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Design
 |  |
 | ------- |
