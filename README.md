@@ -14,6 +14,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/03Shourya/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/03Shourya/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/03Shourya/DSA/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/03Shourya/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/03Shourya/DSA/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/03Shourya/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/03Shourya/DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -198,6 +199,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/03Shourya/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/03Shourya/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/03Shourya/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/03Shourya/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/03Shourya/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/03Shourya/DSA/tree/master/1046-max-consecutive-ones-iii) |
