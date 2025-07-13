@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/03Shourya/DSA/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/03Shourya/DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/03Shourya/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/03Shourya/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/03Shourya/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/03Shourya/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/03Shourya/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/03Shourya/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/03Shourya/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/03Shourya/DSA/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/03Shourya/DSA/tree/master/1013-fibonacci-number) |
@@ -226,6 +228,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/03Shourya/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/03Shourya/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/03Shourya/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
