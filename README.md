@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/03Shourya/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/03Shourya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/03Shourya/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/03Shourya/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/03Shourya/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/03Shourya/DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/03Shourya/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -39,6 +40,7 @@
 | [0148-sort-list](https://github.com/03Shourya/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/03Shourya/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/03Shourya/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/03Shourya/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/03Shourya/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/03Shourya/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/03Shourya/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -88,6 +90,7 @@
 | [0002-add-two-numbers](https://github.com/03Shourya/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/03Shourya/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/03Shourya/DSA/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/03Shourya/DSA/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/03Shourya/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/03Shourya/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/03Shourya/DSA/tree/master/2032-largest-odd-number-in-string) |
