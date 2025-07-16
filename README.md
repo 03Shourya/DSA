@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/03Shourya/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/03Shourya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/03Shourya/DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/03Shourya/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/03Shourya/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -211,6 +212,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/03Shourya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/03Shourya/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/03Shourya/DSA/tree/master/0169-majority-element) |
 ## Merge Sort
@@ -240,6 +242,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/03Shourya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/03Shourya/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/03Shourya/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/03Shourya/DSA/tree/master/1046-max-consecutive-ones-iii) |
