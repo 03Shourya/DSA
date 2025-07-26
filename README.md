@@ -344,4 +344,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/03Shourya/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/03Shourya/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
