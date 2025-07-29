@@ -26,6 +26,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/03Shourya/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/03Shourya/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/03Shourya/DSA/tree/master/0645-set-mismatch) |
+| [0890-lemonade-change](https://github.com/03Shourya/DSA/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/03Shourya/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/03Shourya/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/03Shourya/DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/03Shourya/DSA/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/03Shourya/DSA/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/03Shourya/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/03Shourya/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/03Shourya/DSA/tree/master/2032-largest-odd-number-in-string) |
