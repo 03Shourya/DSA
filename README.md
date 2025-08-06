@@ -22,6 +22,7 @@
 | [0229-majority-element-ii](https://github.com/03Shourya/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/03Shourya/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/03Shourya/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/03Shourya/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/03Shourya/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/03Shourya/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/03Shourya/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -70,6 +71,7 @@
 | [0169-majority-element](https://github.com/03Shourya/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/03Shourya/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/03Shourya/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/03Shourya/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/03Shourya/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/03Shourya/DSA/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/03Shourya/DSA/tree/master/0645-set-mismatch) |
@@ -93,6 +95,7 @@
 | [0205-isomorphic-strings](https://github.com/03Shourya/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/03Shourya/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/03Shourya/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/03Shourya/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/03Shourya/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/03Shourya/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/03Shourya/DSA/tree/master/0496-next-greater-element-i) |
@@ -173,17 +176,20 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/03Shourya/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/03Shourya/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/03Shourya/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/03Shourya/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/03Shourya/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/03Shourya/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/03Shourya/DSA/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/03Shourya/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/03Shourya/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/03Shourya/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/03Shourya/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -232,6 +238,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/03Shourya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/03Shourya/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/03Shourya/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/03Shourya/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -364,4 +371,8 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/03Shourya/DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/03Shourya/DSA/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/03Shourya/DSA/tree/master/1908-recyclable-and-low-fat-products) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/03Shourya/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
