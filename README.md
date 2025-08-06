@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/03Shourya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/03Shourya/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/03Shourya/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/03Shourya/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/03Shourya/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/03Shourya/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/03Shourya/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -61,6 +62,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/03Shourya/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/03Shourya/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/03Shourya/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/03Shourya/DSA/tree/master/0088-merge-sorted-array) |
@@ -81,6 +83,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/03Shourya/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/03Shourya/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/03Shourya/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/03Shourya/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/03Shourya/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/03Shourya/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/03Shourya/DSA/tree/master/0141-linked-list-cycle) |
@@ -126,6 +129,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/03Shourya/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/03Shourya/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/03Shourya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/03Shourya/DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/03Shourya/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/03Shourya/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/03Shourya/DSA/tree/master/0242-valid-anagram) |
