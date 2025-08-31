@@ -366,6 +366,7 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/03Shourya/DSA/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/03Shourya/DSA/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/03Shourya/DSA/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/03Shourya/DSA/tree/master/1153-product-sales-analysis-i) |
