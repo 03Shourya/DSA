@@ -118,6 +118,7 @@
 | [0013-roman-to-integer](https://github.com/03Shourya/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/03Shourya/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/03Shourya/DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/03Shourya/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/03Shourya/DSA/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/03Shourya/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/03Shourya/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/03Shourya/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/03Shourya/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/03Shourya/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/03Shourya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/03Shourya/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -216,6 +218,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/03Shourya/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/03Shourya/DSA/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
