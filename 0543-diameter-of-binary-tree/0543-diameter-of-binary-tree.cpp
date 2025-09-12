@@ -10,21 +10,25 @@
  * };
  */
 class Solution {
+private:
+    int level(TreeNode* root)
+    {
+        if(root==NULL) return 0;
+        return 1+max(level(root->left),level(root->right));
+    }
+    void helper(TreeNode* root,int &maxDia)
+    {
+        if(root==NULL) return;
+        int dia=level(root->left)+level(root->right);
+        maxDia=max(maxDia,dia);
+        helper(root->left,maxDia);
+        helper(root->right,maxDia);
+
+    }
 public:
     int diameterOfBinaryTree(TreeNode* root) {
-        int diameter=0;
-        height(root,diameter);
-        return diameter;
-    }
-private:
-    int height(TreeNode* root,int &diameter)
-    {
-        if(!root) return 0;
-        int lh=height(root->left,diameter);
-        int rh=height(root->right,diameter);
-        diameter=max(diameter,lh+rh);
-        return 1+max(lh,rh);
-       
-
+        int maxDia=0;
+        helper(root,maxDia);
+        return maxDia;
     }
 };
