@@ -38,6 +38,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/03Shourya/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/03Shourya/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/03Shourya/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1603-running-sum-of-1d-array](https://github.com/03Shourya/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/03Shourya/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/03Shourya/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Two Pointers
@@ -342,6 +343,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/03Shourya/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/03Shourya/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/03Shourya/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1603-running-sum-of-1d-array](https://github.com/03Shourya/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/03Shourya/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Design
 |  |
