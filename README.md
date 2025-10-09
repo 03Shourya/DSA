@@ -147,6 +147,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/03Shourya/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/03Shourya/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/03Shourya/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/03Shourya/DSA/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Greedy
 |  |
 | ------- |
@@ -345,6 +346,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/03Shourya/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/03Shourya/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/03Shourya/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/03Shourya/DSA/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Design
 |  |
 | ------- |
